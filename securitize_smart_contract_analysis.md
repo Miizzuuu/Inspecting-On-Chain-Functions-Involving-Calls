@@ -5,7 +5,7 @@
 
 **Protocol Name:** Securitize
 
-**Category:** RWA Tokenization
+**Category:** Crypto and RWA Tokenization
 
 **Smart Contract:** Securitize
 
